@@ -2092,7 +2092,7 @@ ol {
   color: #ecffe1;
 }
 .banner__content p {
-  max-inline-size: 35ch;
+  /* max-inline-size: 35ch; */
   margin-inline: auto;
   font-size: calc(1.3125rem + 0.6428571429vw);
   line-height: 1.65;
